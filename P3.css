@@ -1,0 +1,26 @@
+/* Michael Crean */
+
+h1{  font-size: 50px;background-color: #778899 ;color:blue; padding:40px; text-align: center;font-family: arial;}
+h2{  background-color: dodgerblue; padding:40px; text-align: center; font-family: arial;}
+h3{  background-color: cyan; padding:40px; text-align: center; font-family: arial; }
+h4{  background-color: #778899;padding:40px; color: blue; text-align: center; font-family: arial; }
+
+p{font-style:serif; width:25%; font-size: 20px;color: navy; text-align: center;}
+
+.background1{background-color: #ADD8E6;}
+.background2{background-color: cornflowerblue; }
+.background3{background-color: darkturquoise; }
+
+
+
+a:hover{color:black;
+  background-color: white;
+  font-style: italic, bold;
+  font-size: 20px;
+  text-align: center;}
+
+ul{font-size: 20px; font-style: oblique; color: white;}
+
+label{font-size: 20px; font-style: oblique;color: navy;}
+
+.results1{ text-align: center; font-size: 30px; font-family: "calibri", Garamond; background-color: ghostwhite; border-radius: 14px; color: firebrick; display: inline-block;}
